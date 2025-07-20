@@ -36,5 +36,6 @@ To integrate Neumorphism into your Jetpack Compose project, follow the official 
 ## ⭐ Support
 
 If this project was helpful to you, consider giving it a **⭐ star**!
+Your support helps improve and grow this project. Thank you!
 
 ---
