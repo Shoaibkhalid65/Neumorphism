@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/46ef6f2d-a99d-4e32-b7a7-dd3954eefd03
 To integrate Neumorphism into your Jetpack Compose project, follow the official documentation and usage guide provided below:
 
 - 📌 GitHub Repository: [sridhar-sp/compose-neumorphism](https://github.com/sridhar-sp/compose-neumorphism)  
-- 📖 Official Documentation: [compose-neumorphism Wiki](https://github.com/sridhar-sp/compose-neumorphism/wiki)
 
 ---
 
